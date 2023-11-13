@@ -1,3 +1,5 @@
+# Branch Predictors 
+
 This project measures the effectiveness of several branch direction predictors on a number of 
 traces of conditional branch instructions. Each line in the trace contains the following 
 information for each branch: the program counter (expressed as a word address), the actual 
